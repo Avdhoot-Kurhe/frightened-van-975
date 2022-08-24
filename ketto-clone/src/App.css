@@ -1,0 +1,21 @@
+.App {
+  text-align: center;
+  margin: auto;
+}
+
+.navBar{
+  height:'1rem';
+  display: flex;
+  width: 90%;
+  padding: 10px;
+  margin: auto;
+  justify-content: space-evenly;
+}
+.navBar .image{
+  width: 80px;
+  height: 50px;
+}
+.icon_image{
+  width: 120px;
+  height: 40px;
+}
