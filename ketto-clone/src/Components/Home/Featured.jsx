@@ -45,7 +45,7 @@ export default class Featured extends Component {
     return (
       <Box w={'90%'} m={'auto'}>
         <Box  fontSize={'3xl'} fontWeight={'bold'} mt={'3rem'} mb={'2rem'}>Featured In</Box>
-        <Box m={'1.5rem'} borderRadius={'15px'} p={' 0 3rem'} bg={'gray'}>
+        <Box m={'1.5rem'} borderRadius={'15px'} p={' 0 3rem'} bg={'white'}>
         <Slider {...settings}>
           {featured.map((item)=>(
             <Box gap={20} p={'1rem'}>
