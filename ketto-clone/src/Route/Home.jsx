@@ -15,7 +15,7 @@ function Home() {
             <WhyKetto/>
             <Success/>
             <Featured/>
-            <Footer/>
+            <Footer/> 
             <Box fontWeight={'semibold'} color={'blackAlpha.800'} fontSize={'2xl'}>Know more about Ketto Crowdfunding Platform</Box>
         </div>
     );
