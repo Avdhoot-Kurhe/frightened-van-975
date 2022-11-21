@@ -37,3 +37,7 @@ At the bottom section there is a footer, both Header & Footer are same across al
 The page is responsive for all screen sizes.
 <br/>![Ketto](https://user-images.githubusercontent.com/104357037/203125522-e2e1d8b7-f090-4b5f-b115-a313ca789bd5.jpg)
 
+### Deployed Link :
+ <a href="ketto-clone-rct-101.netlify.app"><img margin="0 1px 0 0" src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" align="center" alt="git"/></a>
+
+
